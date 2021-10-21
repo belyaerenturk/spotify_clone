@@ -1,5 +1,7 @@
 # spotify_clone
 
+For desktop and web.
+
 A new Flutter project.
 
 ## Getting Started
